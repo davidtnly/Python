@@ -32,5 +32,5 @@ def white_strip(string, remove):
         new_string = strip_regex.sub('', new_string)
         return new_string
 
-new_string = white_strip(test_string, char_rm)
-print(new_string)
+strng = white_strip(test_string, char_rm)
+print(strng)
