@@ -7,9 +7,27 @@ is at least eight characters long, contains both uppercase and lowercase
 characters, and has at least one digit. You may need to test the string
 against multiple regex patterns to validate its strength.
 """
-# I believe this is the first time we are importing a module. Don't forget to!
+
 import re
 
+# First, create regex's that meet all expectations given by the problem. There should be
+# 1) at least 8 characters
+# 2) at least one upper case
+# 3) at least one lower case
+# 4) at least one number
+# Regex can be tricky! Make sure you have all symbols, parentheses, and escape characters
+# placed in the correct spot. This may take some practice! It may help to test each regex
+# one at a time until you get used to it.
+length_regex = re.compile('.{8,}')  # 8 characters long
+lower_case_regex = re.compile('[a-z]+')  # contains lowercase characters
+upper_case_regex = re.compile('[A-Z]+')  # contains uppercase characters
+digit_regex = re.compile('[\d]+')  # contains at least 1 digit
+
+# Create a regex list of of the ones created above.
+regex_list = [length_regex,
+              lower_case_regex,
+              upper_case_regex,
+              digit_regex]
 
 # For this, I initiated a regex_count and set it to 0 right when the function starts. This will
 # be used later if the password meets expectations. The for loops will loop over each regex and
@@ -18,37 +36,32 @@ import re
 # regex searches then it will print a message saying your password is strong enough.
 def strong_password(password):
     regex_count = 0
+    count = 0
+    # loop through each re.compile()
     for regex in regex_list:
+        print(count)
         if regex.search(password) is None:
             print('Sorry, your password is not strong enough')
+            print('on count: ' + str(count))
+            if count == 0:
+                print('Failed password length')
+            elif count == 1:
+                print('Failed lowercase requirement')
+            elif count == 2:
+                print('Failed uppercase requirement')
+            else:
+                print('Failed digit requirement')
+            print('Failed Regex: ' + str(regex))
+            print(regex.search(password))
             break
         else:
             regex_count += 1
+            count += 1
             continue
     if regex_count is 4:
         print('Congrats. Your password is strong enough!')
 
 
-# First, create regex's that meet all expectations given by the problem. There should be
-# 1) at least 8 characters
-# 2) at least one upper case
-# 3) at least one lower case
-# 4) at least one number
-# Regex can be tricky! Make sure you have all symbols, paretheses, and escape characters
-# placed in the correct spot. This may take some practice! It may help to test each regex
-# one at a time until you get used to it.
-length_regex = re.compile('.{8,}')
-lower_case_regex = re.compile('[a-z]+')
-upper_case_regex = re.compile('[A-Z]+')
-digit_regex = re.compile('[\d]+')
-
-# Create a regex list of of the ones created above.
-regex_list = [length_regex,
-              lower_case_regex,
-              upper_case_regex,
-              digit_regex]
-
-# User input to type in a password
 pw = input('Please type in a password:\n')
 strong_password(pw)
 
