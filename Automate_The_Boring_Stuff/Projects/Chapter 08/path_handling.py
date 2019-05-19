@@ -24,10 +24,10 @@ print("working dir: ", working_dir)
 
 # Get files in directory
 os.getcwd() # get current wd
-mainpath = 'C:\\Users\\David Ly\\Documents\\Programming\\Python\\Automate_The_Boring_Stuff\\Projects\\Chapter 08'
+main = 'C:\\Users\\David Ly\\Documents\\Programming\\Python\\Automate_The_Boring_Stuff\\Projects\\Chapter 08\\Quizzes'
 readthisfile = 'readthis.txt'
-fullpath = os.path.join(mainpath, readthisfile)
-print(os.path.join(mainpath, readthisfile))
+fullpath = os.path.join(main, readthisfile)
+print(os.path.join(main, readthisfile))
 
 # Open
 chapterFile = open(fullpath)
