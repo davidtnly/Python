@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aeda721f-4f9e-46e5-9d06-fcec3f125e2d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/David_Ly.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comic_practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emailer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game_2048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image_copier.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.ipynb_checkpoints/Chapter-11-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../.ipynb_checkpoints/Chapter-11-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter-11.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter-11.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comic_img_dl.py" beforeDir="false" afterPath="$PROJECT_DIR$/comic_img_dl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../geckodriver.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/image_copier.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+            <state relative-caret-position="437">
+              <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
               <folding>
                 <element signature="e#342#357#0" expanded="true" />
               </folding>
@@ -282,7 +274,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2814274" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2814274" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -367,8 +359,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/image_copier.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        <state relative-caret-position="437">
+          <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
           <folding>
             <element signature="e#342#357#0" expanded="true" />
           </folding>
