@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0667fbb2-8aa9-4880-89ac-a8382f693699" name="Default Changelist" comment="" />
+    <list default="true" id="ce661fbe-b4ab-431e-93dd-aa1da8f3f973" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/11-parse-portfolio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-parse-movies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_to_Program_The_Fundamentals/scratch.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn_to_Program_The_Fundamentals/scratch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Review.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Review.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/david.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,51 +21,33 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06-rock-paper-scissors.py">
+        <entry file="file://$PROJECT_DIR$/10-webpage-print-text.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+            <state relative-caret-position="204">
+              <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07-guessing-game.py">
+        <entry file="file://$PROJECT_DIR$/11-parse-portfolio.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04-duplicate-list.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08-lists-remove-duplicates.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+            <state relative-caret-position="692">
+              <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+              <folding>
+                <element signature="e#137#146#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/09-password-generator.py">
+        <entry file="file://$PROJECT_DIR$/12-parse-movies.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="47" column="53" selection-start-line="47" selection-start-column="53" selection-end-line="47" selection-end-column="53" />
-              <folding>
-                <element signature="e#209#235#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -73,36 +67,42 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/learn_python_in_3.py" />
-        <option value="$PROJECT_DIR$/01-name-age.py" />
-        <option value="$PROJECT_DIR$/02-even-odd.py" />
-        <option value="$PROJECT_DIR$/03-list-less-than.py" />
-        <option value="$PROJECT_DIR$/04-duplicate-list.py" />
-        <option value="$PROJECT_DIR$/05-backwards-string.py" />
-        <option value="$PROJECT_DIR$/06-rock-paper-scissors.py" />
-        <option value="$PROJECT_DIR$/07-guessing-game.py" />
-        <option value="$PROJECT_DIR$/08-lists-remove-duplicates.py" />
-        <option value="$PROJECT_DIR$/09-password-generator.py" />
+        <option value="$PROJECT_DIR$/10-webpage-print-text.py" />
+        <option value="$PROJECT_DIR$/11-parse-portfolio.py" />
+        <option value="$PROJECT_DIR$/12-parse-movies.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="x" value="1529" />
+    <option name="width" value="1918" />
+    <option name="height" value="1366" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Review" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Review" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/04-duplicate-list.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DeepLearning/01-image-clustering" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
   </component>
   <component name="RunDashboard">
@@ -117,8 +117,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.01-name-age">
-    <configuration name="01-name-age" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.10-webpage-print-text">
+    <configuration name="10-webpage-print-text" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Review" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-name-age.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10-webpage-print-text.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="learn_python_in_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11-parse-portfolio" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Review" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,7 +151,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_python_in_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11-parse-portfolio.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,8 +162,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.01-name-age" />
-        <item itemvalue="Python.learn_python_in_3" />
+        <item itemvalue="Python.10-webpage-print-text" />
+        <item itemvalue="Python.11-parse-portfolio" />
       </list>
     </recent_temporary>
   </component>
@@ -172,117 +172,74 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0667fbb2-8aa9-4880-89ac-a8382f693699" name="Default Changelist" comment="" />
-      <created>1558985426291</created>
+      <changelist id="ce661fbe-b4ab-431e-93dd-aa1da8f3f973" name="Default Changelist" comment="" />
+      <created>1559090606627</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1558985426291</updated>
+      <updated>1559090606627</updated>
     </task>
     <servers />
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="1529" y="0" width="1918" height="1366" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24946809" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" weight="0.32927817" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32927817" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32927817" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32822758" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32822758" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32822758" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.32822758" />
+      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/learn_python_in_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-561">
-          <caret line="438" column="24" lean-forward="true" selection-start-line="438" selection-start-column="24" selection-end-line="438" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-name-age.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-even-odd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-list-less-than.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05-backwards-string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06-rock-paper-scissors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-guessing-game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-duplicate-list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-lists-remove-duplicates.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/09-password-generator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="47" column="53" selection-start-line="47" selection-start-column="53" selection-end-line="47" selection-end-column="53" />
+        <state relative-caret-position="289">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../DeepLearning/01-image-clustering/image-cluster.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
-            <element signature="e#209#235#0" expanded="true" />
+            <element signature="e#0#17#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-webpage-print-text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-parse-portfolio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="692">
+          <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+          <folding>
+            <element signature="e#137#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-parse-movies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
