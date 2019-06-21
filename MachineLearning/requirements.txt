@@ -1,0 +1,21 @@
+# no specific version
+
+pandas
+numpy
+seaborn
+matplotlib
+pandas_profiling
+IPython
+plotly
+bokeh
+beautifulsoup4
+requests
+selenium
+lxml
+scikit-learn
+lightgbm
+xgboost
+mlxtend
+scipy
+statsmodels
+nltk
