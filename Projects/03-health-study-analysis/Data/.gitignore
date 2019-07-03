@@ -1,4 +1,10 @@
-'export.xml'
-'export_cda.xml'
-'ignore_this.txt'
-"ignore_this.txt'
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Text files
+.txt
+test.txt
+
+# Giant files
+export.xml
+export_cda.xml
