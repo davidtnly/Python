@@ -1,8 +1,0 @@
-
-# Requirements for find-best-airline-prices.
-# To use type: pip install -r requirements.txt
-
-## Requirements without Version specifiers
-
-pandas
-selenium
