@@ -154,7 +154,7 @@
                     min-height: 78px;
                 }
             </style>
-        <link rel="stylesheet" href="//a.travel-assets.com/globalcontrols-service/content/a14f6911c410a95640adca4a1c4962669fe440dd/styles/1/en_US/globalcontrols-min.css"/>
+        <link rel="stylesheet" href="//b.travel-assets.com/globalcontrols-service/content/6ed8fde56b38ef3d8dab3a352fab4754b51c6638/styles/1/en_US/globalcontrols-min.css"/>
 
         <script src='https://www.google.com/recaptcha/api.js?hl=en'></script>
     
@@ -165,7 +165,7 @@
 
   
   
-        <div data-global-control='header' id='header-container' data-tab='null'><!--PGC http://c.travel-assets.com/globalcontrols-service/content/a14f6911c410a95640adca4a1c4962669fe440dd/htmls/1/en_US/header.html -->
+        <div data-global-control='header' id='header-container' data-tab='null'><!--PGC http://c.travel-assets.com/globalcontrols-service/content/6ed8fde56b38ef3d8dab3a352fab4754b51c6638/htmls/1/en_US/header.html -->
 <!-- GLOBAL_CONTROLS_HEADER -->
 
 <div class="skip-nav" id="skipNav">
@@ -271,7 +271,7 @@
                           <span class="btn-label">
                               <div class="signedIn hidden">
                                 <span class="icon-signedIn" aria-hidden="true">
-                                  <img src="//a.travel-assets.com/globalcontrols-service/content/a14f6911c410a95640adca4a1c4962669fe440dd/images/user-signIn-icon.svg" alt="User Icon" class="signedInIcon">
+                                  <img src="//a.travel-assets.com/globalcontrols-service/content/6ed8fde56b38ef3d8dab3a352fab4754b51c6638/images/user-signIn-icon.svg" alt="User Icon" class="signedInIcon">
                                 </span>
                                 </div>
                 
@@ -291,7 +291,7 @@
                             <ul class="signedIn">
                               <li>
                                 <span class="icon-menu-SignedIn">
-                                                    <img src="//a.travel-assets.com/globalcontrols-service/content/a14f6911c410a95640adca4a1c4962669fe440dd/images/user-signIn-icon.svg" alt="User Icon" class="signedInIcon">
+                                                    <img src="//a.travel-assets.com/globalcontrols-service/content/6ed8fde56b38ef3d8dab3a352fab4754b51c6638/images/user-signIn-icon.svg" alt="User Icon" class="signedInIcon">
                                                 </span>
                                 <div class="userDetails">
                                   <span></span>
@@ -3843,11 +3843,11 @@
                 </form>
             </div>
         </div>
-        <!--PGC http://c.travel-assets.com/globalcontrols-service/content/a14f6911c410a95640adca4a1c4962669fe440dd/htmls/1/en_US/footer-wrap-open.html -->
+        <!--PGC http://c.travel-assets.com/globalcontrols-service/content/6ed8fde56b38ef3d8dab3a352fab4754b51c6638/htmls/1/en_US/footer-wrap-open.html -->
 <div data-global-control="footer" id="site-footer-background" class="site-footer-background">
   <div id="site-footer-wrap" class="site-footer-wrap cols-nested">
 
-<!--PGC http://c.travel-assets.com/globalcontrols-service/content/a14f6911c410a95640adca4a1c4962669fe440dd/htmls/1/en_US/partner-add-hotel.html -->
+<!--PGC http://c.travel-assets.com/globalcontrols-service/content/6ed8fde56b38ef3d8dab3a352fab4754b51c6638/htmls/1/en_US/partner-add-hotel.html -->
     <div id="partner-add-hotel-container"
                 class="partner-add-hotel-show-btn"
          data-url=https://join.expediapartnercentral.com
@@ -3864,10 +3864,10 @@
             </a>
     </div>
 
-<!--PGC http://c.travel-assets.com/globalcontrols-service/content/a14f6911c410a95640adca4a1c4962669fe440dd/htmls/1/en_US/t2d-banner.html -->
+<!--PGC http://c.travel-assets.com/globalcontrols-service/content/6ed8fde56b38ef3d8dab3a352fab4754b51c6638/htmls/1/en_US/t2d-banner.html -->
   <div id="mad-footer-container"></div>
 
-<!--PGC http://c.travel-assets.com/globalcontrols-service/content/a14f6911c410a95640adca4a1c4962669fe440dd/htmls/1/en_US/explore.html -->
+<!--PGC http://c.travel-assets.com/globalcontrols-service/content/6ed8fde56b38ef3d8dab3a352fab4754b51c6638/htmls/1/en_US/explore.html -->
     <div class="site-footer cf sub-footer" role="contentinfo">
         <!-- begin show bot optimized footer -->
         <section class="segmented-list toggle open">
@@ -5322,7 +5322,7 @@
         </section>
     </div>
 
-<!--PGC http://c.travel-assets.com/globalcontrols-service/content/a14f6911c410a95640adca4a1c4962669fe440dd/htmls/1/en_US/multi-currency-multi-language-multi-region-picker.html -->
+<!--PGC http://c.travel-assets.com/globalcontrols-service/content/6ed8fde56b38ef3d8dab3a352fab4754b51c6638/htmls/1/en_US/multi-currency-multi-language-multi-region-picker.html -->
     
                 <div id="currentSiteid" class="hidden">1</div>
                 <li id="multi-currency-multi-lang-multi-region-picker-menu-footer" class="hidden"><a
@@ -6096,21 +6096,21 @@
                     </button>
                 </div>
 
-<!--PGC http://c.travel-assets.com/globalcontrols-service/content/a14f6911c410a95640adca4a1c4962669fe440dd/htmls/1/en_US/legal.html -->
+<!--PGC http://c.travel-assets.com/globalcontrols-service/content/6ed8fde56b38ef3d8dab3a352fab4754b51c6638/htmls/1/en_US/legal.html -->
     <div class="legal">
     Expedia, Inc. is not responsible for content on external Web sites. ©&nbsp;2019 Expedia, Inc. All rights reserved.</div>
 
-<!--PGC http://c.travel-assets.com/globalcontrols-service/content/a14f6911c410a95640adca4a1c4962669fe440dd/htmls/1/en_US/badges.html -->
+<!--PGC http://c.travel-assets.com/globalcontrols-service/content/6ed8fde56b38ef3d8dab3a352fab4754b51c6638/htmls/1/en_US/badges.html -->
 
-<!--PGC http://c.travel-assets.com/globalcontrols-service/content/a14f6911c410a95640adca4a1c4962669fe440dd/htmls/1/en_US/copyrights.html -->
+<!--PGC http://c.travel-assets.com/globalcontrols-service/content/6ed8fde56b38ef3d8dab3a352fab4754b51c6638/htmls/1/en_US/copyrights.html -->
 
-<!--PGC http://c.travel-assets.com/globalcontrols-service/content/a14f6911c410a95640adca4a1c4962669fe440dd/htmls/1/en_US/footer-wrap-close.html -->
+<!--PGC http://c.travel-assets.com/globalcontrols-service/content/6ed8fde56b38ef3d8dab3a352fab4754b51c6638/htmls/1/en_US/footer-wrap-close.html -->
 </div>
 </div>
 
 
-        <script type="text/javascript" src="//b.travel-assets.com/globalcontrols-service/content/a14f6911c410a95640adca4a1c4962669fe440dd/scripts/1/en_US/globalcontrols-min.js" async defer></script>
-<script>define('env', function() {return {"pageModelTimeout":3000,"airlinesTimeout":2000,"cruiseEndpoint":"/cruise/search/api/options","cobrandS3Path":"https://b.travel-assets.com/nexus-site-tooling-web/prod","taapHeaderBundleUrl":"https://taap-ui-bundles.expediapartnersolutions.com","cartGcApiUrl":"https://a.travel-assets.com/cart-gc-api/cart-gc-api.js","envAirnz":"prod","env":"prod","locale":"en_US","version":"a14f6911c410a95640adca4a1c4962669fe440dd","siteId":"1"}});</script><!--PGC globalcontrols []-->
+        <script type="text/javascript" src="//b.travel-assets.com/globalcontrols-service/content/6ed8fde56b38ef3d8dab3a352fab4754b51c6638/scripts/1/en_US/globalcontrols-min.js" async defer></script>
+<script>define('env', function() {return {"pageModelTimeout":3000,"airlinesTimeout":2000,"cruiseEndpoint":"/cruise/search/api/options","cobrandS3Path":"https://b.travel-assets.com/nexus-site-tooling-web/prod","taapHeaderBundleUrl":"https://taap-ui-bundles.expediapartnersolutions.com","cartGcApiUrl":"https://a.travel-assets.com/cart-gc-api/cart-gc-api.js","envAirnz":"prod","env":"prod","locale":"en_US","version":"6ed8fde56b38ef3d8dab3a352fab4754b51c6638","siteId":"1"}});</script><!--PGC globalcontrols []-->
 
         
     
