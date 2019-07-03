@@ -1,0 +1,257 @@
+Date,Hours,Topic,SubTopic,Description
+1/3/2019,1,Research,Web Analytics,Read about digital marketing
+1/4/2019,2,Research,Web Analytics,Read about user mobile acquisition
+1/5/2019,2,Research,Beauty Industry,Read about the industry and market
+1/5/2019,2,Research,User Acquisition Strategies,"Read and write notes on strategies to target user retention, acquisition, monetization, and driving growth (actionable insights)"
+1/6/2019,2,Research,Beauty Industry,Read about the industry and market
+1/6/2019,1,Data Science,Ad Strategy,Review data science processes
+1/7/2019,2,Research,Web Analytics,Talked with Ryan about his role his experiences
+1/8/2019,3,Research,Beauty Industry,Read about A/B Testing & Think with Google articles about digital marketing
+1/8/2019,1,Research,Blueshift,Read about the industry and market
+1/9/2019,2,Research,CRM,Go over blueshift case studies
+1/10/2019,3,Research,CRM,CRM Programs - Digital Analytics Role (Onboarding)
+1/11/2019,1,Research,Experiments,CRM Programs - Digital Analytics Role (Onboarding)
+1/11/2019,1,Research,Experiments,CRM Experiment Successes
+1/12/2019,2,Research,CRM,CRM Experiment Successes
+1/12/2019,1,Research,Digital Marketing,CRM Programs - Digital Analytics Role (Onboarding)
+1/13/2019,3,Research,Visualizations,Digital Marketing
+1/14/2019,2,Data Science,Predictive Analytics,
+1/16/2019,2,Data Science,Marketing Analytics,Review some predictive analytics high level topics and marketing notes
+1/17/2019,1,Data Science,Research,Read up on building data science teams
+1/17/2019,2,Data Science,Predictive Analytics,Read briefly on some predictive analytic examples and what outcomes come out from the roles
+1/18/2019,2,Data Science,Review,Springboard Data Science Questions
+1/20/2019,2,Data Science,Review,Springboard Data Science Questions
+1/21/2019,2,Data Science,Statistics,Random statistics probability test and go over data science interview questions
+1/22/2019,2.5,Data Science,Machine Learning,Go over data science interview questions
+1/22/2019,1.5,Machine Learning,Modeling,Read more about how to implement machine learning and what variables to use and the methods beginning to the end
+1/23/2019,1.75,Tableau,Data Visualization,Created a short and quick Tableau visual on NFL Power Rankings to practice on a type of flow graph
+1/23/2019,1.5,Data Science,Review,Go over data science interview questions
+1/25/2019,3,R Programming,Programming,Read up on some R models and the process on how its written out and practice on current LD prediction model
+1/26/2019,3,R Programming,Programming,Work on loan depot prediction model; check codes from other models; refine xgb and add in a glm model to compare
+1/27/2019,5,R Programming,Programming,Work on loan depot prediction model; check codes from other models; refine xgb and add in a glm model to compare
+1/27/2019,2,Data Science,Research,Read about prediction modelling in R and steps others take and how they feature engeering to model
+1/28/2019,2.5,Tableau,Data Visualization,Create energy Tableau workbook for makeovermonday 
+1/29/2019,2,R Programming,Programming,Go through lending club analysis in R and see flow of project
+1/30/2019,0.5,Future Work,Review,Review interview and some marketing notes
+1/30/2019,2,R Programming,Programming,Practice through lending club's analysis
+1/31/2019,1.5,R Programming,Programming,Practice through lending club's analysis
+2/6/2019,1,Data Science,Reesarch,Read up on some data science process topics
+2/7/2019,5,R Programming,Programming,Work on LDW prediction model - finish cleaning the model and run it tomorrow
+2/8/2019,2,Data Science,Production,Read up on some data science process topics; how to implement it in production; scaling training vs. test sets
+2/9/2019,5,R Programming,Machine Learning,Practice through lending club's analysis
+2/9/2019,1,Data Science,Production,Read up on how to implement data science into production and scaling live data (1) scaling regression inputs or not and 2) if you scale binary inputs or not)
+2/10/2019,1.5,Machine Learning,Algorithms,Go through Practical Machine Learning Course
+2/10/2019,3,Machine Learning,Programming,Go through various examples of R codes and projects
+2/10/2019,1,Data Science,Machine Learning,Go through unbalanced dataset example and submit to Git
+2/11/2019,1,R Programming,Programming,Go through examples
+2/13/2019,5,Time Series,Programming,Work on forecasting using prophet() library at work
+2/19/2019,3,R Programming,Programming,Worked with shiny to create a cryptocurrency dashboard
+2/20/2019,2,R Programming,Programming,Tried to figure out how to push the shiny app but will work on this again in the future
+2/24/2019,4,Data Science,Machine Learning,"Read through subreddits on related topics such as: data science ,machine learning, forecasting and go over some R codes "
+2/24/2019,2,R Programming,Machine Learning,Go over various R codes (related to time series forecasting on store sales) & others
+2/25/2019,5,Time Series,Programming,Working on time series model with an additional anomaly detection moved to Tableau
+2/26/2019,2.5,Time Series,Programming,Working on time series model - added a regressor but numbers did not change as much
+2/26/2019,2.5,Data Science,Marketing Analytics,"Read topics on behavioral scoring, marketing analytics"
+2/26/2019,2.5,Future Work,Review,Viewing jobs
+2/27/2019,3,Data Visualization,Tableau,Work on dashboards relating to forecasts and play around with colors and calendar style errors
+2/27/2019,1,Data Science,Production,Review how to deploy a machine learning production model
+2/28/2019,2,Machine Learning,Predictive Modeling,Wrote notes on some training vs testing data scaling for prediction modelling
+2/28/2019,1,Forecasting,Programming,Read some code on forecasting and others from github
+3/2/2019,3.5,Machine Learning,Production,Read up on deploying machine learning models to production
+3/2/2019,0.5,Statistics,Statistics,A/B experiments and power analysis
+3/2/2019,0.5,Data Science,Machine Learning,Go over R code on machine learning project to understand process
+3/2/2019,0.5,Data Science,Predictive Modeling,Had a question on preprocessing train vs test and apparently predict() function uses train preProc parameters to scale your data
+3/3/2019,3.5,Data Science,Data Science,Read articles and some codes on data science; interesting medium article about building analytics from the ground-up; also deliberate Python practice github 
+3/4/2019,3,Data Science,Machine Learning,Worked on prediction model and fixing train and test sets using preProcess() function; added weighted models as well
+3/5/2019,4,Data Science,Machine Learning,Updating and fixing prediction models
+3/5/2019,1,Time Series,Forecasting,Read some quick codes on time series analysis and understand the process a little better
+3/6/2019,1,Data Science,Machine Learning,Fix some prediction codes and added random forest model
+3/6/2019,1,Marketing Analytics,,Went over some quick topics on A/B testing and optimizing
+3/7/2019,3,Time Series,Forecasting,Read articles on time series and churn models; see notes
+3/7/2019,2.5,Data Science,Machine Learning,Created a churn model in R - practiced with public codes
+3/8/2019,1,Statistics,Experimental Design,"Reading and going through examples of experimental designs; manova, anova, ancova"
+3/9/2019,1,Statistics,Experimental Design,"Reading and going through examples of experimental designs; manova, anova, ancova"
+3/9/2019,3.5,Data Science,Data Science,"Read through oracle data science articles topics ranging from machine learning, time series, data science interviews, statistics, churn models, etc.
+
+Something to go over again is the apple watch data"
+3/10/2019,3,Data Science,Data Science,Read through various oracle articles and case studies
+3/11/2019,3,R Programming,Programming,Worked with some coding today for Broker scores
+3/11/2019,1,Marketing Analytics,Data Science,Read a paper about the use of data science and how to approach marketing
+3/12/2019,6,Data Science,Predictive Modeling,Began new funding model from cleaning to scripting; need to combine NDC and LDW loan statuses and create new variables for NDC statuses
+3/12/2019,4,Data Science,Data Science,Continue finishing microsoft data science courses
+3/13/2019,5,Data Science,Predictive Modeling,Continue to work on exploratory work for new prediction model
+3/13/2019,2,Data Visualization,Power BI,Continue finishing microsoft data science courses
+3/14/2019,5,Data Science,Power BI,Continue to work on finishing up initial phases of prediction model; worked on pushing basic models for now to create baseline
+3/14/2019,3,Data Visualization,Power BI,Continue finishing microsoft data science courses
+3/15/2019,5,Data Science,Power BI,Finished writing out initial model steps and created an HTML doc from RMD
+3/16/2019,2,Data Visualization,Power BI,Continue finishing microsoft data science courses
+3/16/2019,2,Data Science,Power BI,Read up on some lending club models and analysis in R
+3/17/2019,2,Data Visualization,Power BI,Continue finishing microsoft data science courses
+3/17/2019,2,Data Science,Machine Learning,Read up on some lending club models and analysis in R
+3/18/2019,3,Data Science,Machine Learning,Continue to work on cleaning up features and remove any outliers
+3/18/2019,2,Data Visualization,Power BI,Finished Power BI module 3 and started Analytics Storytelling
+3/18/2019,0.5,R Programming,Data Science,Read Statistics for Data Scientist book
+3/20/2019,4,Data Science,Machine Learning,Continue to work on cleaning up features and remove any outliers
+3/20/2019,1,Data Science,Data Science,Read Statistics for Data Scientist book
+3/21/2019,1,R Programming,Programming,Update broker scoring model
+3/21/2019,0.5,Data Science,Production,Read short article on production models
+3/21/2019,3,R Programming,Programming,Work on some programming practices with lending club data
+3/22/2019,1,Data Science,Data Science,Read Statistics for Data Scientist book
+3/25/2019,1.5,R Programming,Programming,Read up on some lending club models and analysis in R
+3/26/2019,3,Data Science,Machine Learning,Continue to finalize development in testing matrices vs df in model stage
+3/26/2019,3,R Programming,Machine Learning,Read up on some lending club models and analysis in R
+3/26/2019,1,Data Science,Data Visualization,Continue Storytelling
+3/22/2019,1,Data Science,Machine Learning,Read Statistics for Data Scientist book
+3/25/2019,2,Time Series,Forecasting,Finished adding external regressor (BOM and EOM) flags
+3/28/2019,1,Data Science,Machine Learning,Read Statistics for Data Scientist book; chapter finally goes into logistic regression
+3/28/2019,1.5,Data Science,Machine Learning,Went over some feature selection vs. dimensionality topics
+3/29/2019,1,Data Science,Predictive Modeling,Tried to finish predictive modeling but ran into an XGB error involving tuning hyperparameters
+3/30/2019,1.5,Data Science,Machine Learning,Went over some data science questions and answers
+3/31/2019,1,Marketing Analytics,Statistics,Read some marketing topics relating to KPI/Statistics
+3/31/2019,5,R Programming,Statistics,"Started on chapter 3 of R for Marketing book; simulating data structures, populating data, transformations, customer segments"
+3/31/2019,1,Data Science,Research,Listened to Red Bull Data Science episode again & Cassie K.
+4/1/2019,2,R Programming,Programming,R for Marketing book
+4/2/2019,3,R Programming,Programming,R for Marketing book
+4/3/2019,2,Data Science,Data Science,Finished up writing output to the initial models for current month's predictions
+4/3/2019,2,R Programming,Programming,Finished up writing output to the initial models for current month's predictions
+4/4/2019,3,R Programming,Programming,R for Marketing book
+4/5/2019,4,Tableau,Data Visualization,Worked on creating prediction dashboard
+4/6/2019,1,R Programming,Programming,R for Marketing book; reviewing notes from the past week
+4/6/2019,0.5,Statistics,Statistics,R for Marketing book; reviewing notes related to statistical tests
+4/8/2019,2,Data Science,Review,Reviewing (forgot)
+4/9/2019,2,Data Science,Review,Reviewing (forgot)
+4/12/2019,2,Future Work,Machine Learning,Went over few questions from Amber Robert ML prep guide
+4/13/2019,4,Future Work,Machine Learning,Went over few questions from Amber Robert ML prep guide
+4/13/2019,2,Future Work,Statistics,Review hypothesis testing for modeling
+4/14/2019,1,Future Work,Review,Review yesterday's notes
+4/14/2019,1,Future Work,Forecasting,Forecasting
+4/14/2019,1,Future Work,Machine Learning,Review my projects and understand steps in the modeling process
+4/15/2019,2,Future Work,Machine Learning,Review machine learning algorithms that I use and my projects
+4/16/2019,3,Future Work,Programming,Review R Codes
+4/16/2019,1,Future Work,Review,Review some interview questions
+4/17/2019,1,Future Work,Review,Review some interview questions
+4/17/2019,1,Future Work,Programming,Review R Codes
+4/17/2019,1,Future Work,Machine Learning,Review machine learning questions (Algorithms & Theories)
+4/18/2019,2,Future Work,Data Science,Review ML process; practice understanding the data science process from start to finish and writing R code
+4/18/2019,1,Future Work,Machine Learning,Review machine learning algorithms 
+4/18/2019,1,Future Work,Machine Learning,Review machine learning questions (Algorithms & Theories)
+4/20/2019,2,Machine Learning,Production,Read about how are machine learning models deployed into production
+4/20/2019,1,Future Work,Machine Learning,Review ML method and process
+4/20/2019,1,Future Work,Machine Learning,Review machine learning questions (Algorithms & Theories)
+4/21/2019,1.5,Future Work,Machine Learning,Review machine learning questions (Algorithms & Theories)
+4/21/2019,0.75,Future Work,Machine Learning,Review machine learning questions (Machine Learning)
+4/21/2019,1.25,Future Work,Machine Learning,Review machine learning questions (Company/Industry Specific)
+4/21/2019,1,Future Work,Programming,Review R questions
+4/21/2019,1.5,Future Work,Data Science,Review Springboard Data Science Interview questions
+4/22/2019,2,Future Work,Database,"Read about database vs warehouse, SQL questions, Edwards lifesciences company"
+4/23/2019,0.75,Data Science,Programming,Work on rewritting some R code from the funding model into RMD file
+4/24/2019,1.5,Future Work,Review,Organize notes
+4/27/2019,4,Future Work,Review,Read about Edwards and answer a few basic interview questions
+4/28/2019,7,Future Work,Business,"Read about some business related questions, technical questions, and your experiences"
+4/30/2019,3,Future Work,Business,"Read about some business related questions, technical questions, and your experiences"
+5/2/2019,4,Future Work,Business,"Read about some business related questions, technical questions, and your experiences"
+5/3/2019,4,Future Work,Business,"Read about some business related questions, technical questions, and your experiences"
+5/4/2019,2,Future Work,Project Management,Practice formulating a project from start to finish
+5/4/2019,4,Future Work,Industry,Focus on medical business questions on how to improve processes
+5/4/2019,1,R Programming,Statistics,Go through the EDX course for R programming and math/statistics
+5/5/2019,3.5,Future Work,Review,Review answers from the previous days
+5/5/2019,1.5,Future Work,Review,Review regular interview answers
+5/5/2019,1.5,Data Visualization,Data Visualization,"Look online on Tableau dashboards on performance, sales, etc."
+5/5/2019,1,Data Science,Data Science,Go through some past ML notes; data science questions
+5/5/2019,1.5,Artificial Intelligence,Research,Read about courses on how to start alongside with Python
+5/5/2019,1,Artificial Intelligence,Research,Read about courses on how to start alongside with Python
+5/5/2019,2.5,Future Work,Review,Review regular interview answers
+5/5/2019,1,Tableau,Data Visualization,"Look online on Tableau dashboards on performance, sales, etc."
+5/5/2019,1,Tableau,Data Visualization,"Look online on Tableau dashboards on performance, sales, etc."
+5/6/2019,4,Future Work,Review,"Review notes, watch some videos on sales ops, and go through some Tableau designs"
+5/7/2019,4,Future Work,Review,"Review notes, watch some videos on sales ops, and go through some Tableau designs"
+5/8/2019,4,Future Work,Review,"Review notes, watch some videos on sales ops, and go through some Tableau designs"
+5/9/2019,2,Future Work,Review,"Review notes, watch some videos on sales ops, and go through some Tableau designs"
+5/10/2019,2,Python,Research,Creating a trello list on things to do and organizing tabs
+5/13/2019,2.5,Python,Basics,Automate the boring stuff book
+5/14/2019,4.5,Python,Basics,Automate the boring stuff book
+5/15/2019,3.5,Python,Basics,Automate the boring stuff book
+5/16/2019,5,Python,Basics,Automate the boring stuff book
+5/17/2019,3,Python,Basics,Automate the boring stuff book
+5/18/2019,1,Python,Basics,Automate the boring stuff book
+5/18/2019,6,Python,Basics,Automate the boring stuff book
+5/19/2019,2.5,Python,Basics,Automate the boring stuff book
+5/19/2019,1.5,Python,Basics,Automate the boring stuff book
+5/19/2019,2.5,Python,Basics,Automate the boring stuff book
+5/20/2019,5.5,Python,Basics,Automate the boring stuff book
+5/21/2019,6,Python,Basics,Automate the boring stuff book
+5/22/2019,6.5,Python,Basics,Automate the boring stuff book
+5/23/2019,5.5,Python,Basics,Automate the boring stuff book
+5/24/2019,6.5,Python,Basics,Automate the boring stuff book
+5/26/2019,1,Python,Basics,Started Coursera review - Learn to Program: The Fundamentals
+5/27/2019,2.5,Python,Basics,Coursera weekly quizzes
+5/27/2019,1.5,Python,Basics,Go over examples in learn python in 3
+5/27/2019,1,Python,Basics,Go over some practice problems from Github
+5/28/2019,2.5,Python,Basics,Go over some practice problems from Github
+5/28/2019,2.5,Python,Webscraping,Go over some practice problems from Github - work on webscraping my own Github profile
+5/28/2019,2.5,Python,Webscraping,Go over the website example
+5/29/2019,2.5,Python,Webscraping,Go over the website example
+5/29/2019,3,Python,Webscraping,Finish up website example and review again
+5/29/2019,0.75,Python,Basics,Read over some of the dataquest missions
+5/30/2019,1.5,Python,Webscraping,Finish up website example and review again
+5/30/2019,1,Python,Research,Research on curriculums and topics to follow
+5/30/2019,0.5,Python,Webscraping,Go through webscraping example again and some beautifulsoup doc
+5/30/2019,0.5,Data Visualization,Review,Review some notes from the sales operations interview
+5/30/2019,3,Python,Programming,Start off machine learning with a pandas tutorial on data quest
+5/31/2019,3,Python,Programming,Learn about the NumPy Package
+5/31/2019,2,Python,Programming,Start the Pandas part 2 tutorial
+6/1/2019,2.5,Python,Programming,Go over the short tutorial of 10 minutes of Pandas
+6/1/2019,1.75,Python,Programming,Sklearn introductory tutorial
+6/1/2019,1.5,Python,Programming,Working with Pandas functions
+6/2/2019,2.5,Python,Review,Review notebooks on pandas and numpy from this week
+6/2/2019,4,Python,Machine Learning,Practice on Titanic datasets
+6/3/2019,5,Python,Machine Learning,Practice on Titanic datasets
+6/4/2019,7.25,Python,Machine Learning,Practice on Titanic datasets
+6/5/2019,6,Python,Machine Learning,Practice on Titanic datasets
+6/6/2019,7,Python,Machine Learning,Practice on Titanic datasets
+6/7/2019,4,Python,Machine Learning,Review Titanic notes
+6/7/2019,1.5,Python,Machine Learning,Review Titanic notes
+6/8/2019,2,Python,Machine Learning,Review Titanic notes
+6/9/2019,3.5,Machine Learning,Predictive Modeling,"Go through another Titanic workflow to see what other functions, methods, and steps used"
+6/9/2019,2,Future Work,Review,Go through typical question and answers
+6/10/2019,2,Future Work,Review,Go through typical question and answers
+6/10/2019,2,Machine Learning,Predictive Modeling,Create new notebook with Titanic basic steps
+6/11/2019,1,Research,Data Science,Search through some deep learning resources and added it to Trello and bookmarks
+6/11/2019,4.5,Machine Learning,Predictive Modeling,Continue to work on the data analysis of Titanic
+6/12/2019,3,Machine Learning,Predictive Modeling,Continue to work on the data analysis of Titanic
+6/13/2019,5,Machine Learning,Predictive Modeling,Continue to work on the data analysis of Titanic
+6/14/2019,7.5,Machine Learning,Predictive Modeling,Continue to work on the data analysis of Titanic
+6/15/2019,1,Machine Learning,Data Science,Review githubs of machine learning projects
+6/16/2019,5,Machine Learning,Data Science,"Review titanic notes - writing down functions, process"
+6/16/2019,0.5,Machine Learning,Data Science,Check out the article about feature importance using python
+6/16/2019,0.5,Deep Learning,Research,Gathering more information and bookmarking
+6/17/2019,4.5,Machine Learning,Python,"Review titanic notes - writing down functions, process"
+6/17/2019,1,Machine Learning,Algorithms,Watch some fastai setup and random forest /jupyter uses
+6/18/2019,2.5,Machine Learning,Data Science,Go through github codes and write down useful functions
+6/18/2019,1,Deep Learning,Research,Gathering more information and bookmarking
+6/18/2019,4,Machine Learning,Predictive Modeling,Begin second modeling project involving regression
+6/19/2019,7,Machine Learning,Predictive Modeling,Work on house regression analysis
+6/19/2019,1,Deep Learning,Research,Continue to read some posts on deep learning on where to start
+6/20/2019,6.5,Machine Learning,Predictive Modeling,Work on house regression analysis
+6/20/2019,0.75,Deep Learning,Data Science,Wrote out some notes in what deep learning courses to take in Trello
+6/21/2019,1,Machine Learning,Research,Read through some machine learning codes and process
+6/21/2019,4,Machine Learning,Predictive Modeling,Work on house regression analysis
+6/22/2019,2.5,Machine Learning,Predictive Modeling,Work on house regression analysis
+6/22/2019,3,Machine Learning,Predictive Modeling,Start new notebook on regression analysis
+6/23/2019,8.5,Machine Learning,Predictive Modeling,Continue working on the regression analysis notebook
+6/24/2019,5,Deep Learning,Research,Continue to search on how to learn deep learning for computer vision
+6/24/2019,2.5,Machine Learning,Predictive Modeling,Continue working on the regression analysis notebook
+6/25/2019,8,Machine Learning,Predictive Modeling,Continue working on the regression analysis notebook
+6/26/2019,1,Machine Learning,Research,Go over posts on machine learning and issues
+6/26/2019,2.5,Machine Learning,Predictive Modeling,Start on 11th notebook that will be able classifcation and working with missing values
+6/27/2019,1,Machine Learning,Research,Browse machine learning and statistics medium blog posts
+6/27/2019,2,Machine Learning,Predictive Modeling,Continue working on the regression analysis notebook
+6/28/2019,1,Machine Learning,Research,Browse machine learning and statistics medium blog posts
+6/28/2019,3,Machine Learning,Predictive Modeling,Continue working on the regression analysis notebook
+6/29/2019,1.5,Machine Learning,Predictive Modeling,Continue working on the regression analysis notebook
+6/30/2019,3,Machine Learning,Predictive Modeling,Finish up the modeling part of the notebook
+6/30/2019,1.5,Machine Learning,Python,Machine learning course with Python
+7/1/2019,1.5,Data Science,Production,Reading about machine learning and extra blogs about machine learning pipeline
+7/1/2019,3,Python,Webscraping,Started notes on webscraping air flight prices
+7/2/2019,1,Machine Learning,Research,Read articles on machine learning and specific topics/skills
+7/2/2019,5,Python,Webscraping,Updated scraper

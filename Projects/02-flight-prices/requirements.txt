@@ -1,0 +1,11 @@
+
+# Requirements for find-best-airline-prices.
+# To use type: pip install -r requirements.txt
+
+## Requirements without specific versions
+## requests and beautifulsoup are optional
+
+pandas
+selenium
+#requests
+#beautifulsoup
