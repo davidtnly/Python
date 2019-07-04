@@ -1,10 +1,16 @@
 # Jupyter Notebook
-.ipynb_checkpoints
+#.ipynb_checkpoints
 
 # Text files
-.txt
-test.txt
+#.txt
+#test.txt
 
 # Giant files
-export.xml
-export_cda.xml
+#export.xml
+#export_cda.xml
+
+# Ignore everything in this directory
+*
+
+# Except this file
+!.gitignore
