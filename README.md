@@ -25,7 +25,7 @@ import study
 knowledge = []
 
 if machinelearning.topic == 'new' | or python.topic == 'new':
-    study.learn[topic]
+    study.learn(topic)
 else:
     knowledge.append()
 
