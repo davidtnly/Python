@@ -2,10 +2,12 @@
 
 This is a testing and learning ground as I take a turn at Python from R.
 
-### Various Folders
+### Various Repositories / Folders
 
+* Deep Learning
+  + https://github.com/davidtnly/DeepLearning
 * Machine Learning
-  + https://github.com/davidtnly/Python/tree/master/MachineLearning
+  + https://github.com/davidtnly/MachineLearning
 * Projects
   + https://github.com/davidtnly/Python/tree/master/Projects
 * Automate The Boring Stuff with Python
@@ -17,19 +19,6 @@ This is a testing and learning ground as I take a turn at Python from R.
 
 _____________________________________________________________________________________________
 
-```
-import python
-import machinelearning
-import study
-
-knowledge = []
-
-if machinelearning.topic == 'new' | or python.topic == 'new':
-    study.learn(topic)
-else:
-    knowledge.append()
-
-```
 
 ## Contact me!
 
